@@ -1,0 +1,7 @@
+bvh==0.3
+transformations==2020.1.1
+tensorboard==2.2.2
+tensorboard-plugin-wit==1.6.0.post3
+tqdm==4.46.1
+google-auth==1.18.0
+google-auth-oauthlib==0.4.1
